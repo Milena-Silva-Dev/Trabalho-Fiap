@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    font-family:monospace;
+    color: #91867D;
+    font-size: 20px; 
+    text-align: center;
+    margin: auto;
+}
+
+#logo {
+    
+    font-family:monospace;
+    color: #91867D;
+    font-size: 20px; 
+    text-align: center;
+    margin: auto;
+}
+
+form>input {
+    font-family: monospace;
+    font-size: 30px;
+    color: #F88372;
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    color: #F88372;
+}
+h3 {
+    color: #91867D;
+}
+
+button{
+    font-family:monospace;
+    color: #F88372;
+    font-size: 20px;
+    border: #F88372;
+    
+}
+
+ 
